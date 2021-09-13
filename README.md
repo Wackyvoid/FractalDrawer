@@ -1,6 +1,6 @@
 Project 1 README
 
-Names + x500s: Namita Nair, nair0025; Ruth Mesfin, mesfi020
+Names: Namita Nair; Ruth Mesfin
 
 Contributions of each partner: Did Circle class and drawCircleFractal method together, Ruth did Rectangle class
 	drawRectangleFractal method, Namita did Triangle class and drawTriangleFractal method. Everything else was done together.
